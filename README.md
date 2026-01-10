@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  📫 Reach me at <strong>mervebagislar07@gmail.com</strong>
+  📫 Reach me at <strong>mervebagislar07@gmail.com</strong><br/>
+  🌐 Website: <a href="https://mervebagislar.com" target="_blank"><strong>mervebagislar.com</strong></a>
 </p>
 
 ---
