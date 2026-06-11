@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Merve</h1>
-<h3 align="center">Flutter Developer | Full-Stack Engineer | AI/ML Enthusiast</h3>
+<h3 align="center">Mobile Software Engineer | Building Mobile & Scalable Backend Systems</h3>
 
 <p align="center">
   I build scalable mobile and web applications with modern architectures<br/>
